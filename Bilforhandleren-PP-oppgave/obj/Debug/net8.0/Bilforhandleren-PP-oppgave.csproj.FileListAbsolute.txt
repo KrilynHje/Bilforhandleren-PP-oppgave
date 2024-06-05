@@ -1,0 +1,14 @@
+C:\Users\krist\source\repos\SKOLEMAPPE\Bilforhandleren-PP-oppgave\Bilforhandleren-PP-oppgave\bin\Debug\net8.0\Bilforhandleren-PP-oppgave.exe
+C:\Users\krist\source\repos\SKOLEMAPPE\Bilforhandleren-PP-oppgave\Bilforhandleren-PP-oppgave\bin\Debug\net8.0\Bilforhandleren-PP-oppgave.deps.json
+C:\Users\krist\source\repos\SKOLEMAPPE\Bilforhandleren-PP-oppgave\Bilforhandleren-PP-oppgave\bin\Debug\net8.0\Bilforhandleren-PP-oppgave.runtimeconfig.json
+C:\Users\krist\source\repos\SKOLEMAPPE\Bilforhandleren-PP-oppgave\Bilforhandleren-PP-oppgave\bin\Debug\net8.0\Bilforhandleren-PP-oppgave.dll
+C:\Users\krist\source\repos\SKOLEMAPPE\Bilforhandleren-PP-oppgave\Bilforhandleren-PP-oppgave\bin\Debug\net8.0\Bilforhandleren-PP-oppgave.pdb
+C:\Users\krist\source\repos\SKOLEMAPPE\Bilforhandleren-PP-oppgave\Bilforhandleren-PP-oppgave\obj\Debug\net8.0\Bilforhandleren-PP-oppgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\source\repos\SKOLEMAPPE\Bilforhandleren-PP-oppgave\Bilforhandleren-PP-oppgave\obj\Debug\net8.0\Bilforhandleren-PP-oppgave.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\SKOLEMAPPE\Bilforhandleren-PP-oppgave\Bilforhandleren-PP-oppgave\obj\Debug\net8.0\Bilforhandleren-PP-oppgave.AssemblyInfo.cs
+C:\Users\krist\source\repos\SKOLEMAPPE\Bilforhandleren-PP-oppgave\Bilforhandleren-PP-oppgave\obj\Debug\net8.0\Bilforhandleren-PP-oppgave.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\SKOLEMAPPE\Bilforhandleren-PP-oppgave\Bilforhandleren-PP-oppgave\obj\Debug\net8.0\Bilforhandleren-PP-oppgave.dll
+C:\Users\krist\source\repos\SKOLEMAPPE\Bilforhandleren-PP-oppgave\Bilforhandleren-PP-oppgave\obj\Debug\net8.0\refint\Bilforhandleren-PP-oppgave.dll
+C:\Users\krist\source\repos\SKOLEMAPPE\Bilforhandleren-PP-oppgave\Bilforhandleren-PP-oppgave\obj\Debug\net8.0\Bilforhandleren-PP-oppgave.pdb
+C:\Users\krist\source\repos\SKOLEMAPPE\Bilforhandleren-PP-oppgave\Bilforhandleren-PP-oppgave\obj\Debug\net8.0\Bilforhandleren-PP-oppgave.genruntimeconfig.cache
+C:\Users\krist\source\repos\SKOLEMAPPE\Bilforhandleren-PP-oppgave\Bilforhandleren-PP-oppgave\obj\Debug\net8.0\ref\Bilforhandleren-PP-oppgave.dll

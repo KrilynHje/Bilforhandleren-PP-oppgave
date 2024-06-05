@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krist\\source\\repos\\SKOLEMAPPE\\Bilforhandleren-PP-oppgave\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D16220CB-9721-45E6-9A2E-A112B48DF584}|Bilforhandleren-PP-oppgave\\Bilforhandleren-PP-oppgave.csproj|c:\\users\\krist\\source\\repos\\skolemappe\\bilforhandleren-pp-oppgave\\bilforhandleren-pp-oppgave\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16220CB-9721-45E6-9A2E-A112B48DF584}|Bilforhandleren-PP-oppgave\\Bilforhandleren-PP-oppgave.csproj|solutionrelative:bilforhandleren-pp-oppgave\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16220CB-9721-45E6-9A2E-A112B48DF584}|Bilforhandleren-PP-oppgave\\Bilforhandleren-PP-oppgave.csproj|c:\\users\\krist\\source\\repos\\skolemappe\\bilforhandleren-pp-oppgave\\bilforhandleren-pp-oppgave\\cardealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16220CB-9721-45E6-9A2E-A112B48DF584}|Bilforhandleren-PP-oppgave\\Bilforhandleren-PP-oppgave.csproj|solutionrelative:bilforhandleren-pp-oppgave\\cardealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16220CB-9721-45E6-9A2E-A112B48DF584}|Bilforhandleren-PP-oppgave\\Bilforhandleren-PP-oppgave.csproj|c:\\users\\krist\\source\\repos\\skolemappe\\bilforhandleren-pp-oppgave\\bilforhandleren-pp-oppgave\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16220CB-9721-45E6-9A2E-A112B48DF584}|Bilforhandleren-PP-oppgave\\Bilforhandleren-PP-oppgave.csproj|solutionrelative:bilforhandleren-pp-oppgave\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\krist\\source\\repos\\SKOLEMAPPE\\Bilforhandleren-PP-oppgave\\Bilforhandleren-PP-oppgave\\Car.cs",
+              "RelativeDocumentMoniker": "Bilforhandleren-PP-oppgave\\Car.cs",
+              "ToolTip": "C:\\Users\\krist\\source\\repos\\SKOLEMAPPE\\Bilforhandleren-PP-oppgave\\Bilforhandleren-PP-oppgave\\Car.cs",
+              "RelativeToolTip": "Bilforhandleren-PP-oppgave\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:44:02.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarDealer.cs",
+              "DocumentMoniker": "C:\\Users\\krist\\source\\repos\\SKOLEMAPPE\\Bilforhandleren-PP-oppgave\\Bilforhandleren-PP-oppgave\\CarDealer.cs",
+              "RelativeDocumentMoniker": "Bilforhandleren-PP-oppgave\\CarDealer.cs",
+              "ToolTip": "C:\\Users\\krist\\source\\repos\\SKOLEMAPPE\\Bilforhandleren-PP-oppgave\\Bilforhandleren-PP-oppgave\\CarDealer.cs",
+              "RelativeToolTip": "Bilforhandleren-PP-oppgave\\CarDealer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:43:58.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krist\\source\\repos\\SKOLEMAPPE\\Bilforhandleren-PP-oppgave\\Bilforhandleren-PP-oppgave\\Program.cs",
+              "RelativeDocumentMoniker": "Bilforhandleren-PP-oppgave\\Program.cs",
+              "ToolTip": "C:\\Users\\krist\\source\\repos\\SKOLEMAPPE\\Bilforhandleren-PP-oppgave\\Bilforhandleren-PP-oppgave\\Program.cs",
+              "RelativeToolTip": "Bilforhandleren-PP-oppgave\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwMAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Bilforhandleren-PP-oppgave",
+              "WhenOpened": "2024-06-05T10:38:08.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
